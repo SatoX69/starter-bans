@@ -1,3 +1,6 @@
 {
-  "users": []
+  "users": [{
+  "id": "string_uid",
+  "reason": "optional_string"
+  }]
 }
